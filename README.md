@@ -54,6 +54,12 @@ It's following proper coding structure and methodology
 
 [Download the audio file](audio/music.wav)
 
+## Game Icons
+
+
+![Icons 1](screenshot1.png)
+![Icons 2](screenshot2.png)
+![Icons 3](screenshot3.png)
 
 ## Prerequisites
 
