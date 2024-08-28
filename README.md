@@ -28,6 +28,32 @@ Social Interaction: Many alien shooting games offer multiplayer modes, which can
 
 It's following proper coding structure and methodology
 
+### Audio Sample
+
+### Explosion
+<audio controls>
+  <source src="audio/explosion.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+[Download the audio file](audio/explosion.wav)
+
+### Laser
+<audio controls>
+  <source src="audio/laser.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+[Download the audio file](audio/laser.wav)
+
+### Music
+<audio controls>
+  <source src="audio/music.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+[Download the audio file](audio/music.wav)
+
 
 ## Prerequisites
 
