@@ -57,9 +57,9 @@ It's following proper coding structure and methodology
 ## Game Icons
 
 
-![Icons 1](screenshot1.png)
-![Icons 2](screenshot2.png)
-![Icons 3](screenshot3.png)
+![Icons 1](download.png)
+![Icons 2](extra.png)
+![Icons 3](green.png)
 
 ## Prerequisites
 
