@@ -56,10 +56,18 @@ It's following proper coding structure and methodology
 
 ## Game Icons
 
+![Icons 1](graphics/extra.png)
+![Icons 2](graphics/green.png)
+![Icons 3](graphics/player.png)
+![Icons 4](graphics/red.png)
+![Icons 5](graphics/yellow.png)
 
-![Icons 1](screenshot1.png)
-![Icons 2](screenshot2.png)
-![Icons 3](screenshot3.png)
+## Screenshots
+
+![Icons 1](docs/screenshot1.png)
+![Icons 1](docs/screenshot2.png)
+![Icons 1](docs/screenshot3.png)
+![Icons 1](docs/screenshot4.png)
 
 ## Prerequisites
 
