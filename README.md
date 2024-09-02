@@ -40,7 +40,7 @@ It's following proper coding structure and methodology
 
 ### Laser
 <audio controls>
-  <source src="audio/laser.wav" type="audio/wav">
+  <source src="https://github.com/Pirate-Emperor/Aliens-Shooter/blob/main/audio/laser.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
