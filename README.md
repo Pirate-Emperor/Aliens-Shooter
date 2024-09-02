@@ -2,16 +2,7 @@
 
 Developed by Pirate-Emperor, Aliens-Shooter is an exciting and action-packed alien shooting game built using Python and the Pygame library.
 
-## Features
 
-- **Player Control**: Allows the player to move the spaceship left and right using keyboard controls.
-- **Alien Invasion**: Features waves of aliens that move across and down the screen, getting closer to the player's spaceship.
-- **Shooting Mechanics**: Provides the player with the ability to shoot bullets to destroy the aliens.
-- **Collision Detection**: Implements collision detection to identify when a bullet hits an alien and when an alien reaches the player's spaceship.
-- **Game Over**: Ends the game when all player's lives are lost or when the player successfully clears all waves of aliens.
-- **Scoring System**: Keeps track of the player's score based on the number of aliens shot.
-- **Sounds and Music**: Incorporates sound effects and background music for an immersive gaming experience.
-- **High Score**: Saves and displays the highest score achieved in the game.
 
 ## Components
 
