@@ -28,14 +28,6 @@ Social Interaction: Many alien shooting games offer multiplayer modes, which can
 
 It's following proper coding structure and methodology
 
-### Audio Sample
-
-[Download the audio file](audio/explosion.wav)
-
-[Download the audio file](audio/laser.wav)
-
-[Download the audio file](audio/music.wav)
-
 ## Screenshots
 
 ![Icons 1](docs/screenshot1.png)
