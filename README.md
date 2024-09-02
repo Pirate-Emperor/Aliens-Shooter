@@ -34,12 +34,6 @@ It's following proper coding structure and methodology
 
 [Download the audio file](audio/laser.wav)
 
-### Music
-<audio controls>
-  <source src="audio/music.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
 [Download the audio file](audio/music.wav)
 
 ## Screenshots
