@@ -54,14 +54,6 @@ It's following proper coding structure and methodology
 
 [Download the audio file](audio/music.wav)
 
-## Game Icons
-
-![Icons 1](graphics/extra.png)
-![Icons 2](graphics/green.png)
-![Icons 3](graphics/player.png)
-![Icons 4](graphics/red.png)
-![Icons 5](graphics/yellow.png)
-
 ## Screenshots
 
 ![Icons 1](docs/screenshot1.png)
