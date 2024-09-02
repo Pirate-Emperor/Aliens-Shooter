@@ -32,12 +32,6 @@ It's following proper coding structure and methodology
 
 [Download the audio file](audio/explosion.wav)
 
-### Laser
-<audio controls>
-  <source src="https://github.com/Pirate-Emperor/Aliens-Shooter/blob/main/audio/laser.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
 [Download the audio file](audio/laser.wav)
 
 ### Music
